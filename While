@@ -1,0 +1,10 @@
+import random
+
+contador=1
+valorAleatoreo=random.randint(100,200)
+print 'El número seleccionado aleatoreamente es el: ', valorAleatoreo
+print '<br>'
+while contador<=valorAleatoreo:
+	print contador
+	contador=contador+1
+	print '<br>'

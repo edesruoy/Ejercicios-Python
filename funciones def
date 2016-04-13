@@ -1,0 +1,9 @@
+#Desarrollar una función que reciba dos enteros y nos muestre todos los valores comprendidos entre ellos (el segundo parámetro siempre debe ser mayor al primero)
+
+def dosenteros(valor1, valor2):
+	while valor1<valor2-1:
+		print '<br>'
+		valor1=valor1+1
+		print valor1
+		
+dosenteros(5,15)
