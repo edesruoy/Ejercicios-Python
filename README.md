@@ -1,2 +1,2 @@
 # Ejercicios-Python
-Ejercicios en lenguaje de programación Pytho.
+Ejercicios en lenguaje de programación Python
